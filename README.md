@@ -12,16 +12,14 @@
 This final capstone project hosted on GitHub Page. [Click here](https://sidiksam.github.io/awesome-book/)
 
 ### Add Book Screenshot:
-
-![Add book](https://user-images.githubusercontent.com/46374143/183217088-700e05aa-2d6c-439d-91a8-f3a784cbf742.png)
+![Add](https://user-images.githubusercontent.com/46374143/184994218-936614af-7a13-47a3-bcfa-6a2ce8feabc6.png)
 
 ### Books List Screenshot:
-![List ](https://user-images.githubusercontent.com/46374143/183217209-f5fc0ef5-51d2-4a2b-a942-dde850af405a.png)
-
-
+![list](https://user-images.githubusercontent.com/46374143/184994371-d2c25664-69a4-4f0d-9c0e-7c4509306500.png)
 
 ### Contact Screenshot:
-![contact ](https://user-images.githubusercontent.com/46374143/183217209-f5fc0ef5-51d2-4a2b-a942-dde850af405a.png)
+![contact](https://user-images.githubusercontent.com/46374143/184994448-3d39992c-b760-4fba-9a5f-ecb128965fbb.png)
+
 
 
 
