@@ -21,15 +21,6 @@ This final capstone project hosted on GitHub Page. [Click here](https://sidiksam
 ![contact](https://user-images.githubusercontent.com/46374143/184994448-3d39992c-b760-4fba-9a5f-ecb128965fbb.png)
 
 
-
-
-## Built With
-
-- HTML
-- CSS
-- JAVASCRIPT
-
-
 ### Objective
 
 This project's goals are as follows:
