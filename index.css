@@ -1,0 +1,129 @@
+
+.bookCard {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+.bookCardFlex {
+  display: inline;
+  flex-direction: row;
+}
+
+.buttonRemove {
+  margin-left: 45%;
+}
+
+.addBook {
+  display: block;
+  text-align: center;
+  font-size: x-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bookAbout {
+  width: 20%;
+  display: inline-block;
+}
+
+input {
+  margin: auto;
+  display: block;
+}
+
+.add {
+  margin: auto;
+  display: block;
+}
+
+.navbar {
+  display: block;
+  border: solid;
+  padding-left: 1.5em;
+}
+
+.navbar ul {
+  cursor: pointer;
+}
+
+.navMenuLeft {
+  display: inline-block;
+  width: 30%;
+  cursor: pointer;
+}
+
+.navMenuRight {
+  float: right;
+  width: 50%;
+  margin-top: 1.5em;
+}
+
+.navMenuRight > li {
+  display: inline-block;
+  width: 32%;
+  margin: 0;
+}
+
+.bookAdderSection {
+  display: none;
+}
+
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bookAdderSection.active {
+  display: block;
+}
+
+.bookListSection {
+  display: block;
+}
+
+.bookListSection.active {
+  display: none;
+}
+
+.footerContainer {
+  border: solid black 2px;
+  margin-top: 2em;
+  padding-left: 2em;
+}
+
+.contactSection {
+  display: none;
+}
+
+.contactSection.active {
+  display: block;
+}
+
+.contactHeader {
+  margin: auto;
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+
+.contactParagraph {
+  margin: auto;
+  text-align: justify;
+  width: 85%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  padding-bottom: 2em;
+}
+
+.contactList {
+  margin: auto;
+  width: 75%;
+}
+
+.contactList > li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
