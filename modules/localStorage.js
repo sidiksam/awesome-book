@@ -1,6 +1,4 @@
-// eslint-disable-next-line
-export default class Books {
-
+class Books {
   static getfromLS = () => (localStorage.getItem('books') ? JSON.parse(localStorage.getItem('books')) : [])
 
   static idGenerator = () => {
@@ -42,3 +40,5 @@ export default class Books {
      });
    }
 }
+
+export default Books;
